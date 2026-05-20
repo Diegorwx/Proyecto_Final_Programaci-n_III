@@ -313,4 +313,5 @@ defmodule Inmobiliaria.Server do
 
   defp parse_float(nil), do: nil
   defp parse_float(val), do: String.to_float(val)
+  
 end
