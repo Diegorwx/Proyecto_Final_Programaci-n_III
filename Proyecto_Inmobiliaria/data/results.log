@@ -1,2 +1,14 @@
 2026-05-13; cliente=ana; responsable=carlos; propiedad=prop001; operacion=compra; ubicacion=Armenia; precio=300000000; status=Completada
 2026-05-13; cliente=ana; responsable=Diego; propiedad=prop003; operacion=compra; ubicacion=Armenia; precio=50000000; status=Completada
+2026-05-21; cliente=cliente1; responsable=vendedor1; propiedad=prop001; operacion=compra; ubicacion=Armenia; precio=250000000; status=Completada
+2026-05-21; cliente=cliente2; responsable=vendedor1; propiedad=prop002; operacion=compra; ubicacion=Pereira; precio=1500000; status=Completada
+2026-05-21; cliente=cliente1; responsable=vendedor1; propiedad=prop001; operacion=compra; ubicacion=Armenia; precio=250000000; status=Completada
+2026-05-21; cliente=cliente1; responsable=vendedor1; propiedad=prop002; operacion=compra; ubicacion=Pereira; precio=1500000; status=Completada
+2026-05-21; cliente=cliente1; responsable=vendedor1; propiedad=prop005; operacion=compra; ubicacion=Armenia; precio=250000000; status=Completada
+2026-05-21; cliente=cliente1; responsable=vendedor1; propiedad=prop006; operacion=compra; ubicacion=Armenia; precio=250000000; status=Completada
+2026-05-23; cliente=cliente1; responsable=vendedor1; propiedad=prop007; operacion=compra; ubicacion=Armenia; precio=200; status=Completada
+2026-05-23; cliente=cliente2; responsable=vendedor1; propiedad=prop008; operacion=compra; ubicacion=Armenia; precio=200; status=Completada
+2026-05-23; cliente=cliente2; responsable=vendedor1; propiedad=prop009; operacion=compra; ubicacion=Armenia; precio=200000; status=Completada
+2026-05-23; cliente=cliente1; responsable=vendedor1; propiedad=prop010; operacion=compra; ubicacion=Armenia; precio=200000; status=Completada
+2026-05-23; cliente=cliente2; responsable=vendedor1; propiedad=prop003; operacion=compra; ubicacion=Armenia; precio=250000000; status=Completada
+2026-05-23; cliente=cliente2; responsable=vendedor1; propiedad=prop011; operacion=compra; ubicacion=Pereira; precio=150000; status=Completada
